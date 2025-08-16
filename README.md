@@ -21,18 +21,18 @@ Para executar o script, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone https://github.com/nicolas-mendes/script-backup-linux.git
     cd seu-repositorio
     ```
 
 2.  **Dê permissão de execução ao script:**
     ```bash
-    chmod +x nome_do_script.sh
+    chmod +x backup_script.sh
     ```
 
 3.  **Execute o script:**
     ```bash
-    ./nome_do_script.sh
+    ./backup_script.sh
     ```
 
 4.  **Siga as instruções do menu**:
