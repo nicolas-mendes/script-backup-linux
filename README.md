@@ -1,4 +1,4 @@
-## SCRIPT DE BACKUP AUTOMATIZADO COM RSYNC
+# SCRIPT DE BACKUP AUTOMATIZADO COM RSYNC
 
 ## SOBRE O PROJETO
 
@@ -14,8 +14,6 @@ Este projeto consiste em um script de automação de backup desenvolvido em Shel
 * **Sincronização Eficiente com `rsync`**: Utiliza o comando `rsync` para uma sincronização rápida e incremental, copiando apenas os arquivos novos ou modificados.
 * **Validação de Integridade**: O `rsync` é configurado para verificar a integridade dos dados.
 * **Estrutura Modular**: O código é organizado em funções (`Menu` e `exec_backup`) para facilitar a manutenção e a legibilidade.
-
----
 
 ## COMO USAR
 
